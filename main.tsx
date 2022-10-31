@@ -1,6 +1,6 @@
 /** @jsx h */
 
-import blog, { redirects, h } from "blog";
+import blog, { redirects } from "blog";
 
 blog({
   title: "Vladyslav Silich",
@@ -10,7 +10,7 @@ blog({
   // avatar: "./assets/avatar.jpg",
   // avatarClass: "rounded-full",
   author: "Vladyslav Silich",
-  cover: "./assets/cover.jpg",
+  // cover: "./assets/cover.jpg",
   links: [
     { title: "Email", url: "mailto:fareomg@gmail.com" },
     { title: "GitHub", url: "https://github.com/vkeyboardv" },
