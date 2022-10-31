@@ -4,7 +4,6 @@ import blog, { redirects } from "blog";
 
 blog({
   title: "Vladyslav Silich",
-  description: "🇺🇦 Help Ukraine — comebackalive.in.ua/donate",
   // header: <header>Your custom header</header>,
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
