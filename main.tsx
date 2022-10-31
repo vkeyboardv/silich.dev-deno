@@ -15,7 +15,7 @@ blog({
     { title: "Email", url: "mailto:fareomg@gmail.com" },
     { title: "GitHub", url: "https://github.com/vkeyboardv" },
     { title: "LinkedIn", url: "https://www.linkedin.com/in/vladyslav-silich-39317b157/" },
-    { title: "CV", url: "https://cv.silich.dev/" },
+    { title: "CV", url: "https://silich.dev/cv" },
   ],
   theme: "light",
 
